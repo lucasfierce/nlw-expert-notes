@@ -1,7 +1,5 @@
 <h1 align="center"> Projeto NLW Expert Notes | Rocketseat </h1>
 
-<p align="center"><a href="https://lucasfierce.github.io/projeto-discover/"> >>Confira aqui o projeto<< </a></p>
-
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
