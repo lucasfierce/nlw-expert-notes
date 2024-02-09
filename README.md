@@ -1,5 +1,7 @@
 <h1 align="center"> Projeto NLW Expert Notes | Rocketseat </h1>
 
+<p align="center">Deploy: <a href="https://lucasfierce.github.io/nlw-expert-notes/">https://lucasfierce.github.io/nlw-expert-notes/</a> </p>
+
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
